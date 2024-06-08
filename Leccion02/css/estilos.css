@@ -1,0 +1,16 @@
+h1 {
+  color: blue;
+}
+
+p {
+  color: green;
+  background-color: yellow;
+  padding: 10px;
+  border: 10px solid red;
+  margin:50px;
+  text-align: center;
+}
+
+a{
+  color: red;
+}
